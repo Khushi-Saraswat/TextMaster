@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+📝 TextMaster – Smart Text Utility Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextMaster is a React-based web application that helps users analyze and manipulate text easily. It is designed for students, writers, developers, and content creators to quickly format, clean, and understand their text.
 
-## Available Scripts
+🚀 Features
 
-In the project directory, you can run:
+Convert text to Uppercase
 
-### `npm start`
+Convert text to Lowercase
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clear the entire text
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Copy text to clipboard
 
-### `npm test`
+Remove Extra Spaces
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Text Summary
 
-### `npm run build`
+Word count
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Character count
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Estimated reading time
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Live Preview of edited text
 
-### `npm run eject`
+Dark / Light Mode Toggle
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Responsive UI using Bootstrap
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🛠️ Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Frontend: React.js
 
-## Learn More
+Styling: Bootstrap 5
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Routing: React Router DOM
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+State Management: React Hooks (useState)
 
-### Code Splitting
+Deployment Ready: Can be hosted on Netlify / Vercel / GitHub Pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+📌 Real World Use Cases
 
-### Analyzing the Bundle Size
+Students cleaning assignments and notes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Writers formatting content
 
-### Making a Progressive Web App
+Developers preprocessing text
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Removing unwanted spaces from copied content
 
-### Advanced Configuration
+Quick word and character analysis
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🔧 Future Enhancements (Planned)
 
-### Deployment
+Search in previously entered text
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Save text history
 
-### `npm run build` fails to minify
+Download text as .txt file
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Grammar & spell check
+
+AI-based text summarization
+
+Navigation using React Router (NavLink & Routes)
+
+📂 Project Setup
+npm install
+npm start
+
+👩‍💻 Developer
+
+Khushi Saraswat
+MCA Student | Java Backend & React Developer
+Aspiring Software Engineer
